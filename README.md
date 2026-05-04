@@ -1,2 +1,16 @@
-# Dinata-rizki-akbar
-cv
+nama : dinata rizki akbar
+mahasiswa : sistem informas
+universitas : terbuka
+
+skill yang saya diminati
+
+About Me: System Engineering dan backend Development.
+
+Technical Skills: * Languages: Java, Python, SQL.
+
+    Tools: Git, VS Code, NetBeans.
+
+    OS: Arch Linux Expert (Kernel Compilation). dan linux mint
+
+    
+
