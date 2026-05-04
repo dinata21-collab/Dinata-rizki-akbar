@@ -3,8 +3,7 @@ mahasiswa : sistem informasi
 universitas : terbuka
 
 skill yang saya diminati
-
-About Me: System Engineering dan backend Development.
+ System Engineering dan backend Development.
 
 Technical Skills: * Languages: Java, Python, SQL.
 
