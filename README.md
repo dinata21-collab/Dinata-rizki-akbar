@@ -1,5 +1,5 @@
 nama : dinata rizki akbar
-mahasiswa : sistem informas
+mahasiswa : sistem informasi
 universitas : terbuka
 
 skill yang saya diminati
